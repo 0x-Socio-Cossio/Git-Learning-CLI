@@ -1,0 +1,76 @@
+
+# ==============================
+# macOS - System files
+# ==============================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Resource forks
+._*
+
+# macOS metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# AppleDouble
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ==============================
+# Editors and IDEs
+# ==============================
+
+.vscode/
+.idea/
+*.code-workspace
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# Environment and secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv*/
+
+# ==============================
+# Node.js
+# ==============================
+
+node_modules/
+npm-debug.log*
+
